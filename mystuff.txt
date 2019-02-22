@@ -1,0 +1,13 @@
+flex
+pie
+alpine
+colorado
+ams1
+east1
+east2
+east3
+east3b
+sw1
+west1
+zabbix
+
